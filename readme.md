@@ -1,5 +1,5 @@
 # About me:
-> **Future Computer Engineer | Hardware Specialist | Tech Enthusiast**
+> **Computer Engineer Student | Hardware Specialist | Tech Enthusiast**
 
 ---
 
