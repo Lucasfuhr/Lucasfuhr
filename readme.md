@@ -1,4 +1,4 @@
-# 👨‍💻 [Teu Nome]
+# ABOUT ME:
 > **Computer Engineering Student | Hardware Specialist | Tech Enthusiast**
 
 ---
