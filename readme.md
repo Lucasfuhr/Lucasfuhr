@@ -1,18 +1,19 @@
-# About me:
-> **Computer Engineer Student | Hardware Specialist | Tech Enthusiast**
+# 👨‍💻 [Teu Nome]
+> **Computer Engineering Student | Hardware Specialist | Tech Enthusiast**
 
 ---
 
 ### 🚀 About Me
-I am a **Computer Engineering** student at Federal University of Mato Grosso(UFMT).
+I am a **Computer Engineering** student at the Federal University of Mato Grosso (UFMT). 
 
-Currently, I'm mastering **Low-level programming (C)** and **Algorithms**.
+Currently, I'm mastering **Low-level programming (C)** and **Algorithms**, leveraging my technical background to build a strong foundation in computing.
 
 ---
 
 ### 🛠️ Core Stack
 ![C](https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Expertise-Hardware-4B0082?style=for-the-badge&logo=micro-strategy&logoColor=white)
 
