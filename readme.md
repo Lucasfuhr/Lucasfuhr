@@ -21,4 +21,4 @@ Currently, I'm mastering **Low-level programming (C)** and **Algorithms**, lever
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](TEU_LINK_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:TEU_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasazevedofuhr@gmail.com)
