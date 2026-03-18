@@ -1,4 +1,4 @@
-# ABOUT ME:
+# About Me:
 > **Computer Engineering Student | Hardware Specialist | Tech Enthusiast**
 
 ---
